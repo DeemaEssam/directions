@@ -6,9 +6,6 @@ CREATE TABLE directions (
 );
 ```
 
-
-![Screenshot 2024-07-04 053658](https://github.com/DeemaEssam/turtlesim_Using_Ros1_And_ROs2/assets/106381596/15e31693-f286-437d-ac09-a1f5c88326f0)
-
 ***2_ write PHP code handles form submissions ($_POST) to insert directions and fetch the last entered direction when requested.***
 
 - Insert the values
