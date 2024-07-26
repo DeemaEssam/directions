@@ -29,10 +29,10 @@
 
         <?php
         // Assuming you have a MySQL database setup
-        $servername = "localhost";
-        $username = "test";
-        $password = "test";
-        $dbname = "robot";
+        $servername = "";
+        $username = "";
+        $password = "";
+        $dbname = "";
 
         // Create connection
         $conn = new mysqli($servername, $username, $password, $dbname);
